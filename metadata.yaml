@@ -1,0 +1,39 @@
+_repo: Recuerdos-y-bellezas-de-Espa-a--C-rdoba_37590
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Parcerisa, F. J. (Francisco Javier)
+    aliases:
+    - Boada, Francisco Javier Parcerisa y
+    - Parcerisa, Francisco Javier
+    - Parcerisa i Boada, Francesc Xavier
+    gutenberg_agent_id: '38934'
+    url: http://www.gutenberg.org/2009/agents/38934
+covers:
+- cover_type: archival
+  image_path: 37590-h/images/ill_cover.jpg
+creator:
+  author:
+    agent_name: Madrazo, Pedro D.
+    aliases:
+    - De Madrazo, Pedro
+    - Kuntz, Pedro de Madrazo y
+    birthdate: 1816
+    deathdate: 1898
+    gutenberg_agent_id: '38933'
+    url: http://www.gutenberg.org/2009/agents/38933
+description: ''
+gutenberg_issued: '2011-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37590'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Recuerdos y bellezas de España
+subjects:
+- !lcsh 'Córdoba (Spain) -- Description and travel'
+- !lcc 'DP'
+title: Córdoba
+url: http://www.gutenberg.org/ebooks/37590
